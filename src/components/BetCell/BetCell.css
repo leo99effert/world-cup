@@ -1,0 +1,22 @@
+.bet-cell {
+  padding: 0 2px !important;
+}
+
+.bet-cell .flag-wrapper {
+  display: inline-block;
+  border-radius: 3px;
+  border: 2px solid transparent;
+  padding: 4px;
+}
+
+.bet-cell .fi {
+  font-size: 1.5rem;
+}
+
+.bet-cell .flag-wrapper.success {
+  border-color: var(--success);
+}
+
+.bet-cell .flag-wrapper.fail {
+  border-color: var(--fail);
+}

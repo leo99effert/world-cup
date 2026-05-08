@@ -1,0 +1,29 @@
+.confederation-table {
+  margin-bottom: 24px;
+}
+
+.confederation-table table {
+  width: 100%;
+  padding: 0 40px;
+}
+
+.confederation-table h3 {
+  text-align: center;
+}
+
+.confederation-table td:last-child {
+  text-align: right;
+}
+
+.confederation-table .ranking {
+  color: var(--text-secondary);
+  font-size: 0.75rem;
+}
+
+.confederation-table .success {
+  color: var(--success);
+}
+
+.confederation-table .fail {
+  color: var(--fail);
+}

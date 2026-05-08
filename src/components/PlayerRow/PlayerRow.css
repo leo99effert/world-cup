@@ -1,0 +1,11 @@
+.player-row td {
+  padding: 4px 6px;
+}
+
+.player-row td:first-child {
+  padding-right: 0;
+}
+
+.player-row td:nth-child(2) {
+  padding-left: 2px;
+}

@@ -1,3 +1,14 @@
+:root {
+  --bg-page: #000;
+  --bg-app: #1a1a1a;
+  --bg-surface: #242424;
+  --text-primary: #f0f0f0;
+  --text-secondary: #888;
+  --border: #333;
+  --success: #4caf50;
+  --fail: #f44336;
+}
+
 *, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
@@ -6,4 +17,10 @@
 
 body {
   font-family: sans-serif;
+  background-color: var(--bg-page);
+  background-image: url('./assets/background.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: var(--text-primary);
 }

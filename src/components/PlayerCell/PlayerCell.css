@@ -1,0 +1,7 @@
+.player-cell span:first-child {
+  font-size: 1.3rem;
+}
+
+.player-cell span:last-child {
+  font-size: 0.85rem;
+}

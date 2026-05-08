@@ -1,0 +1,16 @@
+.score-cell__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.score-cell .score {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: var(--text-primary);
+}
+
+.score-cell .tiebreaker {
+  font-size: 0.65rem;
+  color: var(--text-secondary);
+}
