@@ -10,5 +10,17 @@
       "CONMEBOL": "URU",
       "UEFA": "NOR"
     }
+  },
+    {
+    "id": 2,
+    "name": "Janne&Lotta",
+    "emoji": "🐶",
+    "bets": {
+      "AFC_OFC": "JPN",
+      "CAF": "GHA",
+      "CONCACAF": "USA",
+      "CONMEBOL": "ARG",
+      "UEFA": "ENG"
+    }
   }
 ]
