@@ -106,5 +106,17 @@
       "CONMEBOL": "BRA",
       "UEFA": "FRA"
     }
+  },
+  {
+    "id": 10,
+    "name": "Sofia",
+    "emoji": "👑",
+    "bets": {
+      "AFC_OFC": "JPN",
+      "CAF": "SEN",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "ARG",
+      "UEFA": "ENG"
+    }
   }
 ]
