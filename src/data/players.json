@@ -82,5 +82,17 @@
       "CONMEBOL": "COL",
       "UEFA": "POR"
     }
+  },
+  {
+    "id": 8,
+    "name": "Magnus",
+    "emoji": "🚗",
+    "bets": {
+      "AFC_OFC": "KOR",
+      "CAF": "EGY",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "ARG",
+      "UEFA": "SWE"
+    }
   }
 ]
