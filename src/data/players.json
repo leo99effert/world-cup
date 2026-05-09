@@ -58,5 +58,17 @@
       "CONMEBOL": "ARG",
       "UEFA": "FRA"
     }
+  },
+  {
+    "id": 6,
+    "name": "Calle",
+    "emoji": "⛳",
+    "bets": {
+      "AFC_OFC": "KOR",
+      "CAF": "MAR",
+      "CONCACAF": "USA",
+      "CONMEBOL": "BRA",
+      "UEFA": "ESP"
+    }
   }
 ]
