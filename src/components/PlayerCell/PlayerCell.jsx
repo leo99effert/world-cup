@@ -3,8 +3,10 @@ import './PlayerCell.css'
 function PlayerCell({ player }) {
   return (
     <td className="player-cell">
-      <span>{player.emoji}</span>
-      <span>{player.name}</span>
+      <div className="player-cell-inner">
+        <span>{player.emoji}</span>
+        <span>{player.name}</span>
+      </div>
     </td>
   )
 }

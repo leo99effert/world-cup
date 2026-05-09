@@ -1,4 +1,4 @@
-.player-cell {
+.player-cell-inner {
   display: flex;
   align-items: center;
   gap: 4px;
