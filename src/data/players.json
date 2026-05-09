@@ -70,5 +70,17 @@
       "CONMEBOL": "BRA",
       "UEFA": "ESP"
     }
+  },
+  {
+    "id": 7,
+    "name": "Theresia",
+    "emoji": "🧘‍♀️",
+    "bets": {
+      "AFC_OFC": "AUS",
+      "CAF": "SEN",
+      "CONCACAF": "CAN",
+      "CONMEBOL": "COL",
+      "UEFA": "POR"
+    }
   }
 ]
