@@ -94,5 +94,17 @@
       "CONMEBOL": "ARG",
       "UEFA": "SWE"
     }
+  },
+  {
+    "id": 9,
+    "name": "Charlotta",
+    "emoji": "🎢",
+    "bets": {
+      "AFC_OFC": "KOR",
+      "CAF": "SEN",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "BRA",
+      "UEFA": "FRA"
+    }
   }
 ]
