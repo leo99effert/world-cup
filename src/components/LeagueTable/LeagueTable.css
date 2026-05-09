@@ -1,0 +1,5 @@
+.league-table {
+  width: min(430px, 100vw);
+  padding: 0 12px;
+  box-sizing: border-box;
+}

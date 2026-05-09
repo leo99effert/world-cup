@@ -11,13 +11,25 @@
       "UEFA": "NOR"
     }
   },
-    {
+  {
     "id": 2,
     "name": "Janne&Lotta",
     "emoji": "🐶",
     "bets": {
       "AFC_OFC": "JPN",
       "CAF": "GHA",
+      "CONCACAF": "USA",
+      "CONMEBOL": "ARG",
+      "UEFA": "ENG"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Axel",
+    "emoji": "🔨",
+    "bets": {
+      "AFC_OFC": "IRN",
+      "CAF": "MAR",
       "CONCACAF": "USA",
       "CONMEBOL": "ARG",
       "UEFA": "ENG"

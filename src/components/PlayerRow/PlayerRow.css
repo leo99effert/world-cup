@@ -1,5 +1,6 @@
 .player-row td {
   padding: 4px 6px;
+  vertical-align: middle;
 }
 
 .player-row td:first-child {
