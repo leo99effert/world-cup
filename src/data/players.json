@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "Leo",
+    "emoji": "🦁",
+    "bets": {
+      "AFC_OFC": "UZB",
+      "CAF": "GHA",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "URU",
+      "UEFA": "NOR"
+    }
+  }
+]
