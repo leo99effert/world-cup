@@ -34,5 +34,17 @@
       "CONMEBOL": "ARG",
       "UEFA": "ENG"
     }
+  },
+  {
+    "id": 4,
+    "name": "Alfred",
+    "emoji": "🎣",
+    "bets": {
+      "AFC_OFC": "JPN",
+      "CAF": "EGY",
+      "CONCACAF": "USA",
+      "CONMEBOL": "ARG",
+      "UEFA": "ESP"
+    }
   }
 ]
