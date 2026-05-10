@@ -118,5 +118,17 @@
       "CONMEBOL": "ARG",
       "UEFA": "ENG"
     }
+  },
+  {
+    "id": 11,
+    "name": "Challe",
+    "emoji": "⚽",
+    "bets": {
+      "AFC_OFC": "JPN",
+      "CAF": "CIV",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "ARG",
+      "UEFA": "ENG"
+    }
   }
 ]
