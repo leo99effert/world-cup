@@ -32,7 +32,7 @@
       "CAF": "MAR",
       "CONCACAF": "USA",
       "CONMEBOL": "ARG",
-      "UEFA": "ENG"
+      "UEFA": "CRO"
     }
   },
   {
@@ -129,6 +129,18 @@
       "CONCACAF": "MEX",
       "CONMEBOL": "ARG",
       "UEFA": "ENG"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Vilma",
+    "emoji": "🧙",
+    "bets": {
+      "AFC_OFC": "JPN",
+      "CAF": "EGY",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "BRA",
+      "UEFA": "FRA"
     }
   }
 ]
