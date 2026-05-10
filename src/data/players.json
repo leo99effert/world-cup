@@ -142,5 +142,17 @@
       "CONMEBOL": "BRA",
       "UEFA": "FRA"
     }
+  },
+  {
+    "id": 13,
+    "name": "Isak",
+    "emoji": "🏃‍♂️",
+    "bets": {
+      "AFC_OFC": "AUS",
+      "CAF": "RSA",
+      "CONCACAF": "CAN",
+      "CONMEBOL": "ARG",
+      "UEFA": "ESP"
+    }
   }
 ]
