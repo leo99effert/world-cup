@@ -154,5 +154,29 @@
       "CONMEBOL": "ARG",
       "UEFA": "ESP"
     }
+  },
+  {
+    "id": 14,
+    "name": "Sten",
+    "emoji": "🏍️",
+    "bets": {
+      "AFC_OFC": "JPN",
+      "CAF": "TUN",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "ARG",
+      "UEFA": "GER"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Johanna",
+    "emoji": "🎨",
+    "bets": {
+      "AFC_OFC": "KSA",
+      "CAF": "RSA",
+      "CONCACAF": "CAN",
+      "CONMEBOL": "BRA",
+      "UEFA": "FRA"
+    }
   }
 ]
