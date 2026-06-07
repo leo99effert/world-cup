@@ -178,5 +178,29 @@
       "CONMEBOL": "BRA",
       "UEFA": "FRA"
     }
+  },
+  {
+    "id": 16,
+    "name": "Arvid",
+    "emoji": "📈",
+    "bets": {
+      "AFC_OFC": "JPN",
+      "CAF": "CIV",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "ARG",
+      "UEFA": "FRA"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Lukas",
+    "emoji": "🧗‍♂️",
+    "bets": {
+      "AFC_OFC": "JPN",
+      "CAF": "RSA",
+      "CONCACAF": "USA",
+      "CONMEBOL": "BRA",
+      "UEFA": "ENG"
+    }
   }
 ]
