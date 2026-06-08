@@ -202,5 +202,17 @@
       "CONMEBOL": "BRA",
       "UEFA": "ENG"
     }
+  },
+  {
+    "id": 18,
+    "name": "Alexander",
+    "emoji": "🗼",
+    "bets": {
+      "AFC_OFC": "KSA",
+      "CAF": "MAR",
+      "CONCACAF": "MEX",
+      "CONMEBOL": "BRA",
+      "UEFA": "FRA"
+    }
   }
 ]
