@@ -23,7 +23,7 @@
 
   { "id": "CAN", "name": "Canada", "flagCode": "ca", "confederation": "CONCACAF", "fifaRanking": 30, "settled": false, "successful": false },
   { "id": "CUW", "name": "Curaçao", "flagCode": "cw", "confederation": "CONCACAF", "fifaRanking": 82, "settled": false, "successful": false },
-  { "id": "HAI", "name": "Haiti", "flagCode": "ht", "confederation": "CONCACAF", "fifaRanking": 83, "settled": false, "successful": false },
+  { "id": "HAI", "name": "Haiti", "flagCode": "ht", "confederation": "CONCACAF", "fifaRanking": 83, "settled": true, "successful": false },
   { "id": "MEX", "name": "Mexico", "flagCode": "mx", "confederation": "CONCACAF", "fifaRanking": 15, "settled": false, "successful": false },
   { "id": "PAN", "name": "Panama", "flagCode": "pa", "confederation": "CONCACAF", "fifaRanking": 33, "settled": false, "successful": false },
   { "id": "USA", "name": "USA", "flagCode": "us", "confederation": "CONCACAF", "fifaRanking": 16, "settled": false, "successful": false },
@@ -50,5 +50,5 @@
   { "id": "ESP", "name": "Spain", "flagCode": "es", "confederation": "UEFA", "fifaRanking": 2, "settled": false, "successful": false },
   { "id": "SWE", "name": "Sweden", "flagCode": "se", "confederation": "UEFA", "fifaRanking": 38, "settled": false, "successful": false },
   { "id": "SUI", "name": "Switzerland", "flagCode": "ch", "confederation": "UEFA", "fifaRanking": 19, "settled": false, "successful": false },
-  { "id": "TUR", "name": "Türkiye", "flagCode": "tr", "confederation": "UEFA", "fifaRanking": 22, "settled": false, "successful": false }
+  { "id": "TUR", "name": "Türkiye", "flagCode": "tr", "confederation": "UEFA", "fifaRanking": 22, "settled": true, "successful": false }
 ]
