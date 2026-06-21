@@ -19,7 +19,7 @@
   { "id": "MAR", "name": "Morocco", "flagCode": "ma", "confederation": "CAF", "fifaRanking": 8, "settled": false, "successful": false },
   { "id": "SEN", "name": "Senegal", "flagCode": "sn", "confederation": "CAF", "fifaRanking": 14, "settled": false, "successful": false },
   { "id": "RSA", "name": "South Africa", "flagCode": "za", "confederation": "CAF", "fifaRanking": 60, "settled": false, "successful": false },
-  { "id": "TUN", "name": "Tunisia", "flagCode": "tn", "confederation": "CAF", "fifaRanking": 44, "settled": false, "successful": false },
+  { "id": "TUN", "name": "Tunisia", "flagCode": "tn", "confederation": "CAF", "fifaRanking": 44, "settled": true, "successful": false },
 
   { "id": "CAN", "name": "Canada", "flagCode": "ca", "confederation": "CONCACAF", "fifaRanking": 30, "settled": false, "successful": false },
   { "id": "CUW", "name": "Curaçao", "flagCode": "cw", "confederation": "CONCACAF", "fifaRanking": 82, "settled": false, "successful": false },
