@@ -22,7 +22,7 @@
   { "id": "TUN", "name": "Tunisia", "flagCode": "tn", "confederation": "CAF", "fifaRanking": 44, "settled": true, "successful": false },
 
   { "id": "CAN", "name": "Canada", "flagCode": "ca", "confederation": "CONCACAF", "fifaRanking": 30, "settled": false, "successful": false },
-  { "id": "CUW", "name": "Curaçao", "flagCode": "cw", "confederation": "CONCACAF", "fifaRanking": 82, "settled": false, "successful": false },
+  { "id": "CUW", "name": "Curaçao", "flagCode": "cw", "confederation": "CONCACAF", "fifaRanking": 82, "settled": true, "successful": false },
   { "id": "HAI", "name": "Haiti", "flagCode": "ht", "confederation": "CONCACAF", "fifaRanking": 83, "settled": true, "successful": false },
   { "id": "MEX", "name": "Mexico", "flagCode": "mx", "confederation": "CONCACAF", "fifaRanking": 15, "settled": false, "successful": false },
   { "id": "PAN", "name": "Panama", "flagCode": "pa", "confederation": "CONCACAF", "fifaRanking": 33, "settled": true, "successful": false },
