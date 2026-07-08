@@ -28,9 +28,9 @@
   { "id": "PAN", "name": "Panama", "flagCode": "pa", "confederation": "CONCACAF", "fifaRanking": 33, "settled": true, "successful": false },
   { "id": "USA", "name": "USA", "flagCode": "us", "confederation": "CONCACAF", "fifaRanking": 16, "settled": true, "successful": true },
 
-  { "id": "ARG", "name": "Argentina", "flagCode": "ar", "confederation": "CONMEBOL", "fifaRanking": 3, "settled": false, "successful": false },
+  { "id": "ARG", "name": "Argentina", "flagCode": "ar", "confederation": "CONMEBOL", "fifaRanking": 3, "settled": true, "successful": true },
   { "id": "BRA", "name": "Brazil", "flagCode": "br", "confederation": "CONMEBOL", "fifaRanking": 6, "settled": true, "successful": false },
-  { "id": "COL", "name": "Colombia", "flagCode": "co", "confederation": "CONMEBOL", "fifaRanking": 13, "settled": false, "successful": false },
+  { "id": "COL", "name": "Colombia", "flagCode": "co", "confederation": "CONMEBOL", "fifaRanking": 13, "settled": true, "successful": false },
   { "id": "ECU", "name": "Ecuador", "flagCode": "ec", "confederation": "CONMEBOL", "fifaRanking": 23, "settled": true, "successful": false },
   { "id": "PAR", "name": "Paraguay", "flagCode": "py", "confederation": "CONMEBOL", "fifaRanking": 40, "settled": true, "successful": false },
   { "id": "URU", "name": "Uruguay", "flagCode": "uy", "confederation": "CONMEBOL", "fifaRanking": 17, "settled": true, "successful": false },
