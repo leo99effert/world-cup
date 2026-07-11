@@ -36,7 +36,7 @@
   { "id": "URU", "name": "Uruguay", "flagCode": "uy", "confederation": "CONMEBOL", "fifaRanking": 17, "settled": true, "successful": false },
 
   { "id": "AUT", "name": "Austria", "flagCode": "at", "confederation": "UEFA", "fifaRanking": 24, "settled": true, "successful": false },
-  { "id": "BEL", "name": "Belgium", "flagCode": "be", "confederation": "UEFA", "fifaRanking": 9, "settled": false, "successful": false },
+  { "id": "BEL", "name": "Belgium", "flagCode": "be", "confederation": "UEFA", "fifaRanking": 9, "settled": true, "successful": false },
   { "id": "BIH", "name": "Bosnia and Herzegovina", "flagCode": "ba", "confederation": "UEFA", "fifaRanking": 65, "settled": true, "successful": false },
   { "id": "CRO", "name": "Croatia", "flagCode": "hr", "confederation": "UEFA", "fifaRanking": 11, "settled": true, "successful": false },
   { "id": "CZE", "name": "Czechia", "flagCode": "cz", "confederation": "UEFA", "fifaRanking": 41, "settled": true, "successful": false },
