@@ -41,7 +41,7 @@
   { "id": "CRO", "name": "Croatia", "flagCode": "hr", "confederation": "UEFA", "fifaRanking": 11, "settled": true, "successful": false },
   { "id": "CZE", "name": "Czechia", "flagCode": "cz", "confederation": "UEFA", "fifaRanking": 41, "settled": true, "successful": false },
   { "id": "ENG", "name": "England", "flagCode": "gb-eng", "confederation": "UEFA", "fifaRanking": 4, "settled": false, "successful": false },
-  { "id": "FRA", "name": "France", "flagCode": "fr", "confederation": "UEFA", "fifaRanking": 1, "settled": false, "successful": false },
+  { "id": "FRA", "name": "France", "flagCode": "fr", "confederation": "UEFA", "fifaRanking": 1, "settled": true, "successful": false },
   { "id": "GER", "name": "Germany", "flagCode": "de", "confederation": "UEFA", "fifaRanking": 10, "settled": true, "successful": false },
   { "id": "NED", "name": "Netherlands", "flagCode": "nl", "confederation": "UEFA", "fifaRanking": 7, "settled": true, "successful": false },
   { "id": "NOR", "name": "Norway", "flagCode": "no", "confederation": "UEFA", "fifaRanking": 31, "settled": true, "successful": false },
